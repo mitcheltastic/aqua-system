@@ -11,8 +11,8 @@
 #define WIFI_SSID "zaky"       
 #define WIFI_PASSWORD "p46p69qxffr7r4g" 
 
-#define API_KEY "AIzaSyBG4m1c33_mGxozzOhji9ebZABFCQu9r6o" 
-#define DATABASE_URL "aqua-flood-system-default-rtdb.asia-southeast1.firebasedatabase.app" 
+#define API_KEY "API KEY" 
+#define DATABASE_URL "DB URL" 
 
 // --- TIME CONFIGURATION (For Indonesia/WIB) ---
 const char* ntpServer = "pool.ntp.org";
