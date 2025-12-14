@@ -8,8 +8,8 @@
 //          USER CONFIGURATION
 // ==========================================
 // hape zaky
-#define WIFI_SSID "zaky"       
-#define WIFI_PASSWORD "p46p69qxffr7r4g" 
+#define WIFI_SSID "wifi id"       
+#define WIFI_PASSWORD "wifi pass" 
 
 #define API_KEY "API KEY" 
 #define DATABASE_URL "DB URL" 
